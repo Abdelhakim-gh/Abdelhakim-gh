@@ -4,7 +4,7 @@
 
 ## 🌐 Contact:
 
-- LinkedIn: https://linkedin.com/in/www.linkedin.com/in/abdelhakimelghayoubi
+- LinkedIn: www.linkedin.com/in/abdelhakimelghayoubi
 - Email: mailto:abdo.elghayoubi@gmail.com
 
 
