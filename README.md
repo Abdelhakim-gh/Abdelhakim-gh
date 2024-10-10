@@ -5,7 +5,7 @@
 ## 🌐 Contact:
 
 - LinkedIn: www.linkedin.com/in/abdelhakimelghayoubi
-- Email: mailto:abdo.elghayoubi@gmail.com
+- Email: mailto:abdelhakim.elghayoubi.dev@gmail.com
 
 
 # 💻 Tech Stack:
