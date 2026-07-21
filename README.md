@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 My name is Abdelhakim, I'm a developer & passionate about learning everything the CS world has to offer.<br>🎓 I'm currently a masters student in Data Science & Big Data <br>💻 I'm currently learning Data Science, AI skills & concepts<br>🤝 I'm looking forward to contributing to the open source community with my ideas & projects <br>🧠 Fact, computer science world totally changes the way you think 📈⚡
+👋 My name is Abdelhakim, I'm a developer & passionate about learning everything the CS world has to offer.<br>🎓 I'm currently a PhD student<br>💻Learning Data Science, AI skills & concepts<br>🤝 I'm looking forward to contributing to the open source community with my ideas & projects <br>🧠 Fact, computer science world totally changes the way you think 📈⚡
 
 
 ## 🌐 Contact:
