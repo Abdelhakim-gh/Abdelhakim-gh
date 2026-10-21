@@ -15,7 +15,8 @@
 
 ## 💫 About Me:
 
-👋 My name is Abdelhakim, I'm a developer & passionate about learning everything the CS world has to offer.<br>🎓 I'm currently a PhD Candidate<br> 💻 Learning Data Science, AI skills & concepts<br>🤝 I'm looking forward to contributing to the open source community with my ideas & projects <br>🧠 Fact, computer science world totally changes the way you think 📈⚡
+👋 My name is Abdelhakim,  I am an AI practitioner, data scientist and full-stack developer. I am passionate about using technology to design solutions to complex problems, extract insights and transform raw data into the fuel that powers knowledge and decision systems. 
+<br>🎓 I'm currently a PhD Candidate<br> 💻 Learning Data Science, AI skills & concepts<br>🤝 I'm looking forward to contributing to the open source community with my ideas & projects <br>🧠 Fact, computer science world totally changes the way you think 📈⚡
 
 
 ## 💻 Tech Stack:
