@@ -16,7 +16,7 @@
 ## 💫 About Me:
 
 👋 My name is Abdelhakim,  I am an AI practitioner, data scientist and full-stack developer. I am passionate about using technology to design solutions to complex problems, extract insights and transform raw data into the fuel that powers knowledge and decision systems. 
-<br>🎓 I'm currently a PhD Candidate<br>🤝 I'm looking forward to contributing to the open source community with my ideas & projects <br>🧠 🧠 Fun fact: computer science changes the way you think. 📈⚡
+<br>🎓 I'm currently a PhD Candidate<br>🤝 I'm looking forward to contributing to the open source community with my ideas & projects <br🧠 Fun fact: computer science changes the way you think. 📈⚡
 
 
 
